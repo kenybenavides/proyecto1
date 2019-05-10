@@ -1,0 +1,23 @@
+{
+  "name": "fundamentos",
+  "version": "1.0.1",
+  "description": "primer trabajo",
+  "main": "archivo.js",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenybenavides/proyecto1.git"
+  },
+  "author": "keny keny900130@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenybenavides/proyecto1/issues"
+  },
+  "homepage": "https://github.com/kenybenavides/proyecto1#readme"
+}
